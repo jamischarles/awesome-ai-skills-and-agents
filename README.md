@@ -16,3 +16,6 @@ A curated list of AI tools &amp; repos based on specific use cases
 
 ## Generate AI voice from your voice 
 https://github.com/scribbletune/voice
+
+## AI Agent Harnesses
+[ECC - Open Agent Harness System](https://github.com/affaan-m/everything-claude-code) - Tools & Skills to help you build agents and harnesses
