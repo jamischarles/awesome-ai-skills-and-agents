@@ -26,3 +26,7 @@ https://cli.nylas.com
 
 ## Game Asset Generation
 [Article: 20 incredible midfjourney prompts to create game assets](https://medium.com/design-bootcamp/20-incredible-midjourney-prompts-to-create-game-assets-2347c0455fa0)
+
+
+## AI IDEs I want to try
+[Kilo Code](https://kilo.ai/) - Bring your own Keys
