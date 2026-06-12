@@ -30,3 +30,6 @@ https://studio.tripo3d.ai/
 
 ## AI IDEs I want to try
 [Kilo Code](https://kilo.ai/) - Bring your own Keys
+
+## Training your own model
+https://castform.com/
