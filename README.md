@@ -13,6 +13,7 @@ A curated list of AI tools &amp; repos based on specific use cases
 
 ## Launching your website
 [Metadata-gen](https://github.com/mickadesign/metadata-gen) - Generates Favicons and OG Images.
+[NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, and ads, so your launch actually gets found — pulls live data via Google Search Console, GA4, Google Ads, and Meta Ads MCP.
 
 ## Generate AI voice from your voice 
 https://github.com/scribbletune/voice
