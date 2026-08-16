@@ -19,6 +19,7 @@ https://github.com/scribbletune/voice
 
 ## AI Agent Harnesses
 [ECC - Open Agent Harness System](https://github.com/affaan-m/everything-claude-code) - Tools & Skills to help you build agents and harnesses
+[Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile regression testing with persistent test memory, MCP, and portable agent skills.
 
 ## Email clients
 https://cli.nylas.com
