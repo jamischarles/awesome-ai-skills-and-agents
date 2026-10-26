@@ -20,6 +20,9 @@ https://github.com/scribbletune/voice
 ## AI Agent Harnesses
 [ECC - Open Agent Harness System](https://github.com/affaan-m/everything-claude-code) - Tools & Skills to help you build agents and harnesses
 
+## Agent payment tools
+[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
+
 ## Email clients
 https://cli.nylas.com
 
